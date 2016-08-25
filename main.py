@@ -6,5 +6,6 @@ def main():
     print("GIT Lesson 2")
     print("Vasya")
 	print("Pupkin")
+	print("Gniloy")
 if __name__ == "__main__":
     main()
