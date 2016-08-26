@@ -7,5 +7,7 @@ def main():
     print("Vasya")
 	print("Pupkin")
 	print("Gniloy")
+    #new ficha
+    #fixed
 if __name__ == "__main__":
     main()
