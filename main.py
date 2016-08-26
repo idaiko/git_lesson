@@ -7,8 +7,12 @@ def main():
     print("Vasya")
 	print("Pupkin")
 	print("Gniloy")
+<<<<<<< HEAD
     #new ficha
     #fixed
     #v2
+=======
+    #master branch
+>>>>>>> master
 if __name__ == "__main__":
     main()
